@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>內容創作者的個人網站</title>
+  </head>
+  <body>
+    <h1>歡迎來到我的個人網站</h1>
+    <p>我是一位內容創作者，喜愛寫作和拍攝影片。</p>
+    <h2>我的專長</h2>
+    <ul>
+      <li>寫作</li>
+      <li>影片製作</li>
+      <li>社群媒體經營</li>
+    </ul>
+    <h2>我的作品</h2>
+    <ul>
+      <li><a href="<https://blog.example.com>">部落格</a></li>
+      <li><a href="<https://www.youtube.com/channel/UC123456>">YouTube頻道</a></li>
+      <li><a href="<https://www.instagram.com/example>">Instagram帳號</a></li>
+    </ul>
+    <h2>聯絡我</h2>
+    <p>有任何問題或建議歡迎聯絡我：</p>
+    <ul>
+      <li>Email：<a href="mailto:example@gmail.com">example@gmail.com</a></li>
+      <li>社群媒體：@example</li>
+    </ul>
+  </body>
+</html>
